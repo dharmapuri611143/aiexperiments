@@ -1,0 +1,18 @@
+# Add api aplication related python packages
+
+pandas
+google-cloud-storage
+reportlab
+vertexai
+xlrd
+elasticsearch
+
+streamlit
+PyPDF2
+langchain
+google-cloud-aiplatform
+google.generativeai
+google-cloud-aiplatform
+openpyxl
+# Add any other dependencies your application needs
+
